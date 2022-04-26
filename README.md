@@ -7,11 +7,11 @@ Full Stack Web Developer, UI & Graphic Designer
 Currently in the final year of CSE graduating in 2022. I'm very much interested in web development and its technologies.
 
 * 🌍  I'm based in Hyderabad, India
-* ✉️  You can contact me at [venkyjayasurya@gmail.com](mailto:venkyjayasurya@gmail.com)
-* 🚀  I'm currently back-end intern at [Wholemark](http://wholemark.in)
+* 🚀  I'm currently a back-end intern at [Wholemark](http://wholemark.in)
 * 🧠  I'm learning .net technology and exploring AWS cloud
-* 🤝  I'm open to collaborating on innovative projects
+* 🤝  I'm open for collaboration on innovative projects which solves real world problems
 * ⚡  I'm secretly Ironman, don't tell anyone :)
+* ✉️  You can contact me at [venkyjayasurya@gmail.com](mailto:venkyjayasurya@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkyjayasurya&label=Profile%20views&color=0e75b6&style=flat" alt="venkyjayasurya" /> </p>
 
