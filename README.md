@@ -4,10 +4,10 @@ Hi 👋 My name is Venkatesh
 Full Stack Web Developer, UI & Graphic Designer
 -----------------------------------------------
 
-Currently in the final year of CSE graduating in 2022. I'm very much interested in web development and its technologies.
+Currently Full Time Software Developer @WholeMark. I'm very much interested in web development and its technologies.
 
 * 🌍  I'm based in Hyderabad, India
-* 🚀  I'm currently a back-end intern at [Wholemark](http://wholemark.in)
+* 🚀  I'm currently a Software Developer at [Wholemark](http://wholemark.in)
 * 🧠  I'm learning .net technology and exploring AWS cloud
 * 🤝  I'm open for collaboration on innovative projects which solves real world problems
 * ⚡  I'm secretly Ironman, don't tell anyone :)
