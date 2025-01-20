@@ -4,11 +4,9 @@ Hi 👋 My name is Venkatesh
 Full Stack Web Developer, UI & Graphic Designer
 -----------------------------------------------
 
-Currently Full Time Software Developer @WholeMark. I'm very much interested in web development and its technologies.
-
 * 🌍  I'm based in Hyderabad, India
-* 🚀  I'm currently a Software Developer at [Wholemark](http://wholemark.in)
-* 🧠  I'm learning .net technology and exploring AWS cloud
+* 🚀  I'm currently a Software Developer working on React Js, Next Js, Nest Js and AWS
+* 🧠  I'm exploring Rust and AI
 * 🤝  I'm open for collaboration on innovative projects which solves real world problems
 * ⚡  I'm secretly Ironman, don't tell anyone :)
 * ✉️  You can contact me at [venkyjayasurya@gmail.com](mailto:venkyjayasurya@gmail.com)
@@ -47,11 +45,6 @@ Currently Full Time Software Developer @WholeMark. I'm very much interested in w
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/venkyjayasurya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/venky.jayasurya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/venky-jayasurya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/venky_jayasurya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
